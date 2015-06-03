@@ -9,14 +9,14 @@
 <?php
 
 $values = array(5,2,10,4,7);
+$outputFile = "/home/danny/wordpress/WordPress/charts/images/pizza.png";
+$diameter = 400;
 
-$outputFile = "/home/danny/wordpress/WordPress/charts/images/test_pie.png";
 
-// $values = array(10,10,10,10,10);
+// $values = array(10,10,10,10,10); // for checking colors
 
 $sectorCount = count($values);
 
-$diameter = 400;
 $radius = $diameter/2;
 $angle = 360/$sectorCount;
 
