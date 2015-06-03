@@ -1,0 +1,16 @@
+<?php
+/*
+   Plugin Name: Change Manager Plugin
+   Plugin URI:  https://github.com/danja/WordPress
+   Version:     0.1
+*/
+
+?>
+
+// Description: This describes my plugin in a short sentence
+// Author:      John Smith
+// Author URI:  http://URI_Of_The_Plugin_Author
+// License:     GPL2
+// License URI: https://www.gnu.org/licenses/gpl-2.0.html
+// Domain Path: /languages
+// Text Domain: my-toolset
